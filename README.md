@@ -1,6 +1,7 @@
 # Recipe Rat
 
-<img>https://drive.google.com/file/d/16ouB0WfVeogtTei8FOPHWTeiqaQ7GldN/view</img>
+![Recipe Rat](https://user-images.githubusercontent.com/59591116/78945243-71ff0980-7a85-11ea-920c-4f402c44244c.gif)
+
 
 Recipe Rat is a front-end website takes a user inputted search term and searches through theMealDB API to search for a recipe based on the search term. The website then displays the recipe name, a link to the recipe page (if available), a picture (if available), a list of the ingredients and their calorie count based on the Edamam nutritional analysis api, the total calories, and a graph showing how much exercise you would need to do to burn off the meal. The user also has the option of removing any of the ingredients from the ingredient list, and seeing how the total calories and chart changes dynamically based on the new ingredient list.
 
